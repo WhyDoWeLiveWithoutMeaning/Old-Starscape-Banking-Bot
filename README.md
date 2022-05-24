@@ -1,5 +1,5 @@
 # Old-Starscape-Banking-Bot
-This is my old starscape banking discord bot code from like 2 months ago
+This is my old starscape banking discord bot code from like 15 months ago
 
 Two things.
 
